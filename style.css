@@ -23,7 +23,7 @@ main{
 #area-direita{
     background-color: cornflowerblue;
     flex: 1;
-    background-image: url(img/closeup-shot-beautiful-butterfly-with-interesting-textures-orange-petaled-flower.jpg);
+    background-image: url(./closeup-shot-beautiful-butterfly-with-interesting-textures-orange-petaled-flower.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
